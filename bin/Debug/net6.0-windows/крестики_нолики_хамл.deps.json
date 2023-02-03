@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "крестики_нолики_хамл/1.0.0": {
+        "runtime": {
+          "крестики_нолики_хамл.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "крестики_нолики_хамл/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
